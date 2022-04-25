@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Prepare for success every day, Work day Scheduler
 
 ## Get your day planned out ahead of time. Prepare for a succesful day, a succesful week. 
 
