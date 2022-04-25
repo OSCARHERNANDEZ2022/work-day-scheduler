@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 ## Get your day planned out ahead of time. Prepare for a succesful day, a succesful week. 
 
